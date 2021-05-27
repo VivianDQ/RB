@@ -1,5 +1,3 @@
->📋  A template README.md for code accompanying a Machine Learning paper
-
 # Robust Stochastic Linear Contextual Bandits UnderAdversarial Attacks
 
 This repository is the official implementation of [Robust Stochastic Linear Contextual Bandits UnderAdversarial Attacks].

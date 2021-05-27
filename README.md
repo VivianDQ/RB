@@ -53,7 +53,7 @@ python3 run.py -type reward -attack oracle_topN
 Get the following raw data from movielens official website and Kaggle's website and put them in the ``raw_data`` folder inside the ``data`` folder.
 
 - Movieslens 100k dataset: you need ``u.data`` file in this dataset.
-- Netflix dataset from Kaggle: you need ``combined_data_{i}.txt`` for ``i=1,2,3,4,5``.
+- Netflix dataset from Kaggle: you need ``combined_data_{i}.txt`` for ``i=1,2,3,4``.
 
 Since we run matrix factorization on the raw data, we also need the matrix factorization package `libpmf-1.41`. Get the package from its [official website](https://www.cs.utexas.edu/~rofuyu/libpmf/) and unzip the package and save the whole `libpmf-1.41` folder inside the ``data`` folder. You may need to read the instructions of that package to compile the program.
 
